@@ -1,0 +1,6 @@
+[submodule "ADCS Embedded Software"]
+	path = ADCS-embedded-software
+	url = https://github.com/Teidesat/ADCS-embedded-software
+[submodule "ADCS-simulations"]
+	path = ADCS-simulations
+	url = https://github.com/Teidesat/ADCS-simulations
